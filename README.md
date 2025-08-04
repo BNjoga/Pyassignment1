@@ -22,8 +22,6 @@ This is a simple Python script that performs **basic arithmetic operations** —
 ---
 
 ## 💻 Example
-
-```plaintext
 Enter the first number: 10
 Enter the second number: 5
 Results of your two numbers:
